@@ -81,9 +81,9 @@ class AboutMe:
 </div>
 
 <div align="center">
-  <a href="https://github.com/Zin-7045/RecipeGenerator"><img src="https://img.shields.io/badge/DISHBRAIN-181717?style=for-the-badge&logo=github&logoColor=white" alt="DISHBRAIN Repo"/></a>
-  <a href="https://github.com/Zin-7045/Sentinel-Fraud-Detection"><img src="https://img.shields.io/badge/Sentinel-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sentinel Repo"/></a>
-  <a href="https://github.com/Zin-7045/BookinPK-dApp"><img src="https://img.shields.io/badge/BookinPK-181717?style=for-the-badge&logo=github&logoColor=white" alt="BookinPK Repo"/></a>
+  <a href="https://github.com/Zin-7045/RecipeGenerator"><img src="https://img.shields.io/badge/DISHBRAIN-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="DISHBRAIN Repo"/></a>
+  <a href="https://github.com/Zin-7045/Sentinel-Fraud-Detection"><img src="https://img.shields.io/badge/Sentinel-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Sentinel Repo"/></a>
+  <a href="https://github.com/Zin-7045/BookinPK-dApp"><img src="https://img.shields.io/badge/BookinPK-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="BookinPK Repo"/></a>
 </div>
 
 ---
