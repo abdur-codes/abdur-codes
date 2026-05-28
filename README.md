@@ -1,44 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6aff:3bc9b0&height=180&section=header&text=Abdur%20Rehman&fontSize=48&fontColor=fff&animation=fadeIn" width="100%"/>
-</div>
-
-<h3 align="center">Data Science & AI Engineer | Big Data | Blockchain</h3>
+<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
+<h3 align="center">Data Science & AI Student | Blockchain & DApp Developer | Automation Engineer</h3>
 
 <p align="center">
-  <a href="https://abdurrehman7045.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7c6aff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/Zin-7045">
+    <img src="https://img.shields.io/badge/GitHub-Zin--7045-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abdur--Rehman-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Zin-7045">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:abdur.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://abdurrehman7045.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7c6aff?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💫 About Me
 
-```python
-class AboutMe:
-    name = "Abdur Rehman"
-    education = "BS Data Science @ University of Central Punjab"
-    interests = ["AI/ML", "RAG Systems", "Big Data", "Smart Contracts"]
-    tools = ["Python", "Kafka", "Spark", "Solidity", "n8n"]
-    
-    def current_focus(self):
-        return "Building AI-powered pipelines & decentralized apps"
-```
-
-> 🌟 **[Check out my full portfolio →](https://abdurrehman7045.netlify.app/)**
+- 🎓 Pursuing a **BS in Data Science** at the University of Central Punjab.
+- 🔭 Working on **AI Automation Pipelines** and decentralized applications (**DApps**).
+- 🌱 Specialized in **Smart Contracts (Solidity)**, local blockchain orchestration, and multi-node ETL data flows.
+- 💬 Ask me about **Web3 Architecture, Data Scraping, or n8n Workflow Automation**.
+- 🌐 **[Portfolio →](https://abdurrehman7045.netlify.app/)**
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,61 +35,31 @@ class AboutMe:
 
 **Blockchain & Web3**  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-E17634?style=for-the-badge&logo=metamask&logoColor=white)
 
-**Data & AI**  
+**Data Science, Scraping & Automation**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
-**Tools**  
+**Tools & Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlighted Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🍳 DISHBRAIN</h3>
-      <p><strong>AI Recipe Generator</strong> — RAG system with FAISS vector search, Kafka streaming, and ensemble LLM inference (T5, GPT-2, Groq LLaMA).</p>
-      <p>
-        <a href="https://github.com/Zin-7045/RecipeGenerator">🔗 Repo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🛡️ Sentinel</h3>
-      <p><strong>Fraud Detection Platform</strong> — Big Data pipeline with Kafka, Spark Streaming, and ensemble ML (Isolation Forest, XGBoost, LSTM) achieving ~95% AUC-ROC.</p>
-      <p>
-        <a href="https://github.com/Zin-7045/Sentinel-Fraud-Detection">🔗 Repo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔗 BookinPK</h3>
-      <p><strong>Decentralized Booking dApp</strong> — Ethereum blockchain-backed booking platform with Solidity smart contracts and MetaMask integration.</p>
-      <p>
-        <a href="https://github.com/Zin-7045/BookinPK-dApp">🔗 Repo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌟 Portfolio</h3>
-      <p><strong>Personal website</strong> — Built with HTML/CSS/JS featuring animated hero, typewriter effect, skill bars, and project showcase.</p>
-      <p>
-        <a href="https://abdurrehman7045.netlify.app/">🔗 Live Site</a>
-      </p>
-    </td>
-  </tr>
-</table>
+**DISHBRAIN — AI Recipe Generator** — RAG system with FAISS vector search, Kafka streaming, and ensemble LLM inference (T5, GPT-2, Groq LLaMA). → [Repo](https://github.com/Zin-7045/RecipeGenerator)
+
+**Sentinel — Real-Time Fraud Detection Platform** — Big Data pipeline with Kafka, Spark Streaming, and ensemble ML (Isolation Forest, XGBoost, LSTM) achieving ~95% AUC-ROC. → [Repo](https://github.com/Zin-7045/Sentinel-Fraud-Detection)
+
+**BookinPK — Decentralized Booking dApp** — Ethereum blockchain-backed booking platform with Solidity smart contracts and MetaMask integration. → [Repo](https://github.com/Zin-7045/BookinPK-dApp)
 
 ---
 
@@ -119,9 +76,16 @@ class AboutMe:
 
 ---
 
+### ✍️ Random Dev Quote
+
 <p align="center">
-  <b>📫 Let's connect!</b><br>
-  <a href="https://abdurrehman7045.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android">💼 LinkedIn</a> •
-  <a href="mailto:abdur.dev@outlook.com">📧 Email</a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+  <br>
+  <a href="https://abdurrehman7045.netlify.app/">🌟 Visit my portfolio →</a>
 </p>
