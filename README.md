@@ -5,8 +5,11 @@
   <a href="https://github.com/Zin-7045">
     <img src="https://img.shields.io/badge/GitHub-Zin--7045-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdur-rehman-581305358">
+  <a href="https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Abdur--Rehman-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://datascience-portfolio-website.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7c6aff?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -52,6 +55,7 @@
 ---
 
 ### 🚀 Highlighted Projects
+
 **DISHBRAIN — AI Recipe Generator** — A full-stack Retrieval-Augmented Generation (RAG) system leveraging FAISS vector search, Apache Kafka streaming, and ensemble LLM inference (T5, GPT-2, Groq LLaMA) to transform raw ingredients into structured, step-by-step recipes with an interactive React dashboard.
 
 **Sentinel — Real-Time Fraud Detection Platform** — An enterprise-grade Big Data analytics pipeline integrating Apache Kafka, Spark Structured Streaming, and a weighted ensemble of Isolation Forest, XGBoost, and LSTM models to detect financial fraud with ~95% AUC-ROC, visualized through a live React + Recharts monitoring dashboard.
@@ -89,4 +93,6 @@
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
-<h3 align="center"> abdur.dev@outlook.com
+  <br>
+  <a href="https://datascience-portfolio-website.netlify.app/">🌟 Visit my portfolio →</a>
+</p>
