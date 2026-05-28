@@ -53,11 +53,16 @@
 
 ### 🚀 Highlighted Projects
 **DISHBRAIN — AI Recipe Generator** — A full-stack Retrieval-Augmented Generation (RAG) system leveraging FAISS vector search, Apache Kafka streaming, and ensemble LLM inference (T5, GPT-2, Groq LLaMA) to transform raw ingredients into structured, step-by-step recipes with an interactive React dashboard.
+
 **Sentinel — Real-Time Fraud Detection Platform** — An enterprise-grade Big Data analytics pipeline integrating Apache Kafka, Spark Structured Streaming, and a weighted ensemble of Isolation Forest, XGBoost, and LSTM models to detect financial fraud with ~95% AUC-ROC, visualized through a live React + Recharts monitoring dashboard.
+
 **BookinPK — Decentralized Booking dApp** — A localized Ethereum network-backed decentralized application incorporating Solidity smart contracts, secure MetaMask wallet integrations, and rigorous on-chain transaction tracking for peer-to-peer booking services.
-*   **Job Market Analytics Pipeline:** A multi-node AI automation workflow built inside **n8n** utilizing **Python** and **Apache Airflow** to orchestrate seamless data extraction, processing, and alerting.
-*   **Decentralized Platforms (bookinpk & Voting Portal):** Built localized Ethereum network-backed DApps incorporating Solidity smart contracts, secure **MetaMask** integrations, and rigorous backend transaction tracking.
-*   **Modular Web Scraping Engines:** Robust data pipelines utilizing BeautifulSoup and Requests frameworks to pull, sanitize, and structure messy e-commerce catalog data at scale.
+
+**Job Market Analytics Pipeline:** A multi-node AI automation workflow built inside **n8n** utilizing **Python** and **Apache Airflow** to orchestrate seamless data extraction, processing, and alerting.
+    
+**Decentralized Platforms (bookinpk & Voting Portal):** Built localized Ethereum network-backed DApps incorporating Solidity smart contracts, secure **MetaMask** integrations, and rigorous backend transaction tracking.
+    
+**Modular Web Scraping Engines:** Robust data pipelines utilizing BeautifulSoup and Requests frameworks to pull, sanitize, and structure messy e-commerce catalog data at scale.
 
 ---
 
