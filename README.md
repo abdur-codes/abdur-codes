@@ -59,6 +59,16 @@
 
 ---
 
+### 🚀 Highlighted Projects
+
+**DISHBRAIN — AI Recipe Generator** — A full-stack Retrieval-Augmented Generation (RAG) system leveraging FAISS vector search, Apache Kafka streaming, and ensemble LLM inference (T5, GPT-2, Groq LLaMA) to transform raw ingredients into structured, step-by-step recipes with an interactive React dashboard.
+
+**Sentinel — Real-Time Fraud Detection Platform** — An enterprise-grade Big Data analytics pipeline integrating Apache Kafka, Spark Structured Streaming, and a weighted ensemble of Isolation Forest, XGBoost, and LSTM models to detect financial fraud with ~95% AUC-ROC, visualized through a live React + Recharts monitoring dashboard.
+
+**BookinPK — Decentralized Booking dApp** — A localized Ethereum network-backed decentralized application incorporating Solidity smart contracts, secure MetaMask wallet integrations, and rigorous on-chain transaction tracking for peer-to-peer booking services.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
