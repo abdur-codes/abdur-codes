@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=𝐀𝐁𝐃𝐔𝐑%20𝐑𝐄𝐇𝐌𝐀𝐍&fontSize=60&fontColor=E4CAB5&animation=fadeIn" width="100%"/>
 </div>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Engineer;Big+Data+%7C+Blockchain+%7C+Automation;Building+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+%26+AI+ENGINEER;BIG+DATA+%7C+BLOCKCHAIN+%7C+AUTOMATION;BUILDING+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
 </h3>
 <p align="center">
   <a href="https://abdurrehman7045.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7c6aff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/Zin-7045"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;<a href="mailto:abdur.dev@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
