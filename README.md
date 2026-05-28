@@ -90,4 +90,4 @@
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 <p align="center">
-  <i>**abdur.dev@outlook.com**</i>
+  **abdur.dev@outlook.com**
