@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abdur-rehman-581305358?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Abdur--Rehman-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://datascience-portfolio-website.netlify.app/">
+  <a href="https://abdurrehman7045.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7c6aff?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -94,5 +94,5 @@
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
   <br>
-  <a href="https://datascience-portfolio-website.netlify.app/">🌟 Visit my portfolio →</a>
+  <a href="https://abdurrehman7045.netlify.app/">🌟 Visit my portfolio →</a>
 </p>
