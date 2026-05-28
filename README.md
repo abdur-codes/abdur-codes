@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
-<h3 align="center">Data Science & AI Enthusiast | Python | SQL | JavaScript</h3>
+<h3 align="center">Data Science & AI Student | Blockchain & DApp Developer | Automation Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/Zin-7045">
@@ -14,10 +14,11 @@
 
 ### 💫 About Me
 
-- 🔭 Exploring the world of **Data Science, Machine Learning & AI**
-- 🌱 Currently learning **Deep Learning & Computer Vision**
-- 💬 Ask me about **Python, SQL, JavaScript**
-- ⚡ Fun fact: **I love turning data into insights**
+- 🎓 Pursuing a **BS in Data Science** at the University of Central Punjab.
+- 🔭 Working on **AI Automation Pipelines** and decentralized applications (**DApps**).
+- 🌱 Specialized in **Smart Contracts (Solidity)**, local blockchain orchestration, and multi-node ETL data flows.
+- 💬 Ask me about **Web3 Architecture, Data Scraping, or n8n Workflow Automation**.
+- 🎬 Fun fact: When I'm not writing smart contracts or analyzing data pipelines, I lead cinematic media production as the **Videography Head** for the UCP Adventure Club.
 
 ---
 
@@ -25,27 +26,37 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Blockchain & Web3**  
+**Blockchain & Web3 Ecosystem**  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Solidity](https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5E463A?style=for-the-badge&logo=truffle&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E17634?style=for-the-badge&logo=metamask&logoColor=white)
 
-**Data Science & ML**  
+**Data Science, Scraping & Automation**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
-**Tools**  
+**Tools & Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+*   **Job Market Analytics Pipeline:** A multi-node AI automation workflow built inside **n8n** utilizing **Python** and **Apache Airflow** to orchestrate seamless data extraction, processing, and alerting.
+*   **Decentralized Platforms (bookinpk & Voting Portal):** Built localized Ethereum network-backed DApps incorporating Solidity smart contracts, secure **MetaMask** integrations, and rigorous backend transaction tracking.
+*   **Modular Web Scraping Engines:** Robust data pipelines utilizing BeautifulSoup and Requests frameworks to pull, sanitize, and structure messy e-commerce catalog data at scale.
 
 ---
 
