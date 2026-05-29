@@ -95,12 +95,6 @@ class AboutMe:
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zin-7045&theme=radical&hide_title=true&hide_border=true&card_width=360" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=Zin-7045&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zin-7045&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" />
-
-</p>
-
 ---
 
 <div align="center">
