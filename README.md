@@ -95,7 +95,7 @@ class AboutMe:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zin-7045&show_icons=true&theme=radical&hide=stars" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zin-7045&amp;show_icons=true&amp;theme=radical&amp;hide=stars" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zin-7045&theme=radical" alt="Top Languages" />
 
 </p>
