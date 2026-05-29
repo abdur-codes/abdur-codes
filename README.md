@@ -91,8 +91,8 @@ class AboutMe:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=Zin-7045&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" width="460" height="200" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zin-7045&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" width="460" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api/?username=Zin-7045&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zin-7045&theme=radical&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
 </p>
 
 ---
