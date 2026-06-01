@@ -91,8 +91,8 @@ class AboutMe:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=muneeb-x&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muneeb-x&theme=radical&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/?username=abdur-codes&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdur-codes&theme=radical&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
 </p>
 
 ---
