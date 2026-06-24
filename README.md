@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,24&height=280&section=header&text=%20%20𝐀𝐁𝐃𝐔𝐑%20𝐑𝐄𝐇𝐌𝐀𝐍%20%20&fontSize=58&fontColor=A78BFA&animation=fadeIn&desc=DATA%20SCIENCE%20%26%20AI%20ENGINEER&descSize=18&descAlignY=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=𝐀𝐁𝐃𝐔𝐑%20𝐑𝐄𝐇𝐌𝐀𝐍&fontSize=60&fontColor=A78BFA&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25"/> About Me</h3>
+### 👨‍💻 About Me
 
 ```python
 class AboutMe:
@@ -35,81 +35,69 @@ class AboutMe:
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"/> Tech Stack</h3>
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<details open>
-<summary><b>🧠 Languages</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=python,solidity,js,ts" /><br>
-<img src="https://img.shields.io/badge/SQL-06B6D4?style=flat-square&logo=mysql&logoColor=white" />
-</details>
+**🧠 Languages**
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<details open>
-<summary><b>⛓️ Blockchain & Web3</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
-<img src="https://img.shields.io/badge/MetaMask-E17634?style=flat-square&logo=metamask&logoColor=white" />
-</details>
+**⛓️ Blockchain & Web3**
 
-<br>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-E17634?style=for-the-badge&logo=metamask&logoColor=white)
 
-<details open>
-<summary><b>📊 Data & AI</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
-</details>
+**📊 Data & AI**
 
-<br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
-<details open>
-<summary><b>🔧 Tools</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</details>
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="25"/> Featured Projects</h3>
+### 🚀 Featured Projects
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/DISHBRAIN-7C3AED?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/Sentinel-06B6D4?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/BookinPK-A78BFA?style=for-the-badge&logo=github&logoColor=white" /> |
-|:---:|:---:|:---:|
 | 🍳 **DISHBRAIN** | 🛡️ **Sentinel** | 🔗 **BookinPK** |
+|:---:|:---:|:---:|
 | RAG recipe generator | Fraud detection (~95% AUC) | Decentralized booking dApp |
 | *FAISS · Kafka · Ensemble LLM* | *Kafka · Spark · XGBoost · LSTM* | *Solidity · Web3.js · MetaMask* |
-| <a href="https://github.com/abdur-codes/RecipeGenerator"><img src="https://img.shields.io/badge/View_Repo-1E293B?style=flat-square&logo=github&logoColor=white" /></a> | <a href="https://github.com/abdur-codes/Sentinel-Fraud-Detection"><img src="https://img.shields.io/badge/View_Repo-1E293B?style=flat-square&logo=github&logoColor=white" /></a> | <a href="https://github.com/abdur-codes/BookinPK-dApp"><img src="https://img.shields.io/badge/View_Repo-1E293B?style=flat-square&logo=github&logoColor=white" /></a> |
+| [![Repo](https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdur-codes/RecipeGenerator) | [![Repo](https://img.shields.io/badge/View_Repo-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdur-codes/Sentinel-Fraud-Detection) | [![Repo](https://img.shields.io/badge/View_Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdur-codes/BookinPK-dApp) |
 
 </div>
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="25"/> GitHub Analytics</h3>
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdur-codes&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E2E8F0" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-codes&theme=radical&hide_title=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdur-codes&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-codes&theme=radical&hide_title=true&hide_border=true&layout=compact" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdur-codes&theme=radical&hide_border=true&background=0D1117&stroke=06B6D4&ring=A78BFA&fire=EF4444&currStreakLabel=A78BFA" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdur-codes&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
@@ -118,7 +106,7 @@ class AboutMe:
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25"/> Let's Connect</h3>
+### 📫 Let's Connect
 
 <div align="center">
 
@@ -126,14 +114,6 @@ class AboutMe:
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-581305358)
 [![Email](https://img.shields.io/badge/Say_Hello-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur.dev@outlook.com)
 
-<br>
-
-<p>
-  <a href="https://github.com/abdur-codes/abdur-codes">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Readme_Template-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,24&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer" width="100%"/>
 
 </div>
