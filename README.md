@@ -97,7 +97,7 @@ class AboutMe:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdur-codes/abdur-codes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+  <img src="https://raw.githubusercontent.com/abdur-codes/abdur-codes/master/images/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
 </p>
 
 ---
