@@ -95,6 +95,10 @@ class AboutMe:
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdur-codes&theme=radical&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdur-codes/abdur-codes/master/images/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+</p>
+
 ---
 
 <div align="center">
