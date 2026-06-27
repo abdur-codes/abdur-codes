@@ -77,19 +77,14 @@ class AboutMe:
 | 🛡️ **Sentinel** | Real-time fraud detection (~95% AUC-ROC) | Kafka, Spark, XGBoost, LSTM |
 | 🔗 **BookinPK** | Decentralized booking dApp on Ethereum | Solidity, Web3.js, MetaMask |
 
+<div align="center">
+
 [![Healthcare Pulse Repo](https://img.shields.io/badge/Healthcare_Pulse-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abdur-codes/healthcare-pulse)
 [![DISHBRAIN Repo](https://img.shields.io/badge/DISHBRAIN-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abdur-codes/RecipeGenerator)
 [![Sentinel Repo](https://img.shields.io/badge/Sentinel-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abdur-codes/Sentinel-Fraud-Detection)
 [![BookinPK Repo](https://img.shields.io/badge/BookinPK-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abdur-codes/BookinPK-dApp)
 
 </div>
-
-<div align="center">
-  <a href="https://github.com/abdur-codes/RecipeGenerator"><img src="https://img.shields.io/badge/DISHBRAIN-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="DISHBRAIN Repo"/></a>
-  <a href="https://github.com/abdur-codes/Sentinel-Fraud-Detection"><img src="https://img.shields.io/badge/Sentinel-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Sentinel Repo"/></a>
-  <a href="https://github.com/abdur-codes/BookinPK-dApp"><img src="https://img.shields.io/badge/BookinPK-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="BookinPK Repo"/></a>
-</div>
-
 ---
 
 ### 📊 GitHub Analytics
